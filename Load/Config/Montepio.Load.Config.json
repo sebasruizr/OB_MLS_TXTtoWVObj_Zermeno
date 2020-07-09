@@ -1,0 +1,32 @@
+[
+  {
+    "fileNameSuffix": "InventarioSucursal_ErrorenDescripcion",
+    "auditClassName": "ATInformeAuditoriaTecnicaSucursal",
+    "observationClassName": "ATDetalleRevisionErrorDescripcion",
+    "classNames": [
+      {
+        "className": "ATAnexoSucursalErrorDescripcion",
+        "conditionalAttribute": null,
+        "conditionalAttributeValue": null,
+        "default": true
+      }
+    ],
+    "attributes": [
+      {
+        "index": 0,
+        "name": "ATASEDAuditor",
+        "format": null
+      },
+      {
+        "index": 1,
+        "fieldName": "Así se llama el atributo de WorkView",
+        "format": "##.##"
+      },
+      {
+        "index": 2,
+        "fieldName": "Así se llama el atributo de WorkView",
+        "format": "##.##"
+      }
+    ]
+  }
+]
